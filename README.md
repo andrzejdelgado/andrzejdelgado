@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andrzejdelgado
 - 👀 I’m interested in delivering awesomeness
-- 🌱 I’m currently learning game development
-- 📫 How to reach me: https://design.delgado.pl
+- 📫 How to reach me: https://design.delgado.pl or https://uicrux.com
 
 <!---
 andrzejdelgado/andrzejdelgado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
