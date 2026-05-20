@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrzejdelgado
 - 👀 I’m interested in delivering awesomeness
-- 📫 How to reach me: https://design.delgado.pl or https://uicrux.com
+- 📫 How to reach me: https://delgado.vc or https://uicrux.com
 
 <!---
 andrzejdelgado/andrzejdelgado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
